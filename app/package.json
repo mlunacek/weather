@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "homepage": "https://github.com/mlunacek/weather",
+  "homepage": "https://mlunacek.github.io/weather/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "react-router-dom": "^6.3.0",
     "react-scrollama": "^2.3.2",
-    "react-scrolly-telling": "^0.2.1",
+    "react-scrolly-telling": "^0.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
