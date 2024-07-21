@@ -1,9 +1,0 @@
-name: weather
-dependencies:
-- python=3.6
-- pandas
-- jupyter
-- requests
-- pip:
-  - --editable=git+git@github.com:python-metar/python-metar.git#egg=metar
-  
